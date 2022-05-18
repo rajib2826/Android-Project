@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "873768258735",
+    "project_id": "database-9132d",
+    "storage_bucket": "database-9132d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873768258735:android:1e6e35230a82df6243585a",
+        "android_client_info": {
+          "package_name": "com.example.spinner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873768258735-618ng0ppqp86c1l0r4ebmrdvi4ucdfuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2hg0sZb_EgZpZt0TSnPj9iEyHoIFEBmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873768258735-618ng0ppqp86c1l0r4ebmrdvi4ucdfuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
